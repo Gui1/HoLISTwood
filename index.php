@@ -1,5 +1,7 @@
 <?php
+include_once('./inc/header.php');
 ?>
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
   <head>
@@ -16,6 +18,8 @@
     <h1> holistwood </h1>
   </header>
 
+=======
+>>>>>>> f648e659c2769128dbd93c9a3e06f8c80c88c2fd
 <main>
 
     <div id="trailer">
@@ -36,11 +40,15 @@
 
 </main>
 
-  <footer>
 
+<<<<<<< HEAD
   </footer>
   </body>
 </div>
+=======
+>>>>>>> f648e659c2769128dbd93c9a3e06f8c80c88c2fd
 
 
-</html>
+<?php
+include_once('./inc/footer.php');
+?>
