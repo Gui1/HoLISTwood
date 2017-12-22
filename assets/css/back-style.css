@@ -45,7 +45,11 @@ header {
   font-weight: bold;
 }
 #titreHeader h2 a {
-  color: blue;
+  color: #0000FF;
+}
+#titreHeader h2 a:hover {
+  color: lightblue;
+  text-decoration: underline;
 }
 header nav {
   height: 80%;
