@@ -43,14 +43,14 @@ main {
 }
 #trailer {
   padding: 30px;
-  margin: auto;
-  width: 917px;
-  height: 490px;
-  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
 
 }
 #trailer iframe {
   box-shadow: 10px 10px 5px #1a1a1a;
+  width: 917px;
+  height: 490px;
 }
 .affiches {
   display: flex;
