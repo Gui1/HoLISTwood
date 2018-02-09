@@ -10,7 +10,7 @@
     <div id="wrapper">
       <header>
         <div id="titreHeader">
-          <h1> Panneau de contrôle de holistwood </h1>
+          <h1> Panneau de contrôle </h1>
           <h2><a href="./index.php">Retourner sur le site</a></h2>
         </div>
         <nav>
